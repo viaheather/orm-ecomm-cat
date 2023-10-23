@@ -35,3 +35,8 @@ This application was cloned from https://github.com/coding-boot-camp/fantastic-u
 
 ## Features
 Express.js API, Sequelize, MySQL
+
+## Example
+[Video Walkthrough can be found here](https://drive.google.com/file/d/1DeOIiqsHtvhvL0voJDdUZ8b04vBecFxz/view?usp=share_link)
+
+![Example with GET methods via Insomnia](Develop/assets/module13.gif)
